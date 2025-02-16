@@ -165,7 +165,7 @@ function default_settings() {
   MACHINE=""
   DISK_SIZE="8G"
   DISK_CACHE=""
-  HN="ubuntu"
+  HN="rocky linux"
   CPU_TYPE=""
   CORE_COUNT="2"
   RAM_SIZE="2048"
